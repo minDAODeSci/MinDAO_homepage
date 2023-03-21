@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/minDAODeSci/MinDAO",
+        "image": "social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/descijapan",
+        "image": "social/twitter.svg"
+    },
+	{
+        "name": "Discord",
+        "link": "https://discord.gg/Gddfv3hvqx",
+        "image": "social/discord.png"
+    }
+]
