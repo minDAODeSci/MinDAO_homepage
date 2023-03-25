@@ -1,0 +1,3 @@
+[submodule "themes/Hero"]
+path = themes/Hero
+url = https://github.com/zerostaticthemes/hugo-hero-theme
