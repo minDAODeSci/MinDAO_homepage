@@ -1,8 +1,10 @@
-baseURL = "/"
+baseURL = "https://mindao.github.io/mindao_site/"
 languageCode = "en-us"
 title = "MinDAO"
 themesDir = "themes"
 theme = "Hero"
+
+publishDir = "docs"
 
 [module]
   [module.hugoVersion]
