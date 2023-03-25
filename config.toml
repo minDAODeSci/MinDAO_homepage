@@ -5,6 +5,7 @@ themesDir = "themes"
 theme = "Hero"
 
 publishDir = "docs"
+canonifyurls = true
 
 [module]
   [module.hugoVersion]
