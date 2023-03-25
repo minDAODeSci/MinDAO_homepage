@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on MinDAO</title>
+    <link>/work/</link>
+    <description>Recent content in Work on MinDAO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABCDEF Publishing</title>
+      <link>/work/abcdef_overview/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/work/abcdef_overview/</guid>
+      <description>Scientists write research articles, process ethics reviews, evaluate proposals and research, and seek funding. Various solutions have been proposed to address these issues, employing decentralized science (DeSci) in an independent organization built on the blockchain. Decentralized approaches that exploit these developments offer potentially profound improvements to the troubled scientific ecosystem.
+Here, we propose a system that integrates ethics reviews, peer reviews, and funding in a decentralized manner, based on Web3 technology.</description>
+    </item>
+    
+  </channel>
+</rss>
